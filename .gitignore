@@ -1,0 +1,10 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Local Git
+.git/
