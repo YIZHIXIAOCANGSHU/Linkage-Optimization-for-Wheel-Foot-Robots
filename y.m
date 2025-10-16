@@ -81,3 +81,5 @@ axis tight;
 eqn_text = sprintf('拟合直线: y = %.4f x + %.4f', slope, intercept);
 text(mean(theta_range), mean(f_vals) - 20, eqn_text, ...
     'FontSize', 10, 'BackgroundColor', 'white');
+
+    
